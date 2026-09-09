@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/FPS/Scenes/ExampleSceneA.unity
+    guid: bf869763b907597478b0069d20bb23a1
+  - enabled: 1
+    path: Assets/FPS/Scenes/LO3A.unity
+    guid: ce41e8b1f3c34bc42b8ed59b451f3add
+  - enabled: 1
+    path: Assets/FPS/Scenes/LO3B.unity
+    guid: 1a06b9541bd4f454e9427ded5b7dd802
+  - enabled: 1
+    path: Assets/FPS/Scenes/TestScene.unity
+    guid: 63b68b8c7685f9146b22815bda3ead24
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 05b4aeda8533b704f9be24b556a43d98,
       type: 3}
