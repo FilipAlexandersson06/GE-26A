@@ -6,28 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FPS/Scenes/IntroMenu.unity
+    path: Assets/Scenes/IntroMenu.unity
     guid: 56e3faabc5bb30f49a68bb8f1292f988
   - enabled: 1
-    path: Assets/FPS/Scenes/WinScene.unity
+    path: Assets/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
   - enabled: 1
-    path: Assets/FPS/Scenes/LoseScene.unity
+    path: Assets/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
   - enabled: 1
-    path: Assets/FPS/Scenes/MainScene.unity
+    path: Assets/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
   - enabled: 1
-    path: Assets/FPS/Scenes/ExampleSceneA.unity
+    path: Assets/Scenes/ExampleSceneA.unity
     guid: bf869763b907597478b0069d20bb23a1
   - enabled: 1
-    path: Assets/FPS/Scenes/LO3A.unity
+    path: Assets/Scenes/LO3A.unity
     guid: ce41e8b1f3c34bc42b8ed59b451f3add
   - enabled: 1
-    path: Assets/FPS/Scenes/LO3B.unity
+    path: Assets/Scenes/LO3B.unity
     guid: 1a06b9541bd4f454e9427ded5b7dd802
   - enabled: 1
-    path: Assets/FPS/Scenes/TestScene.unity
+    path: Assets/Scenes/TestScene.unity
     guid: 63b68b8c7685f9146b22815bda3ead24
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 05b4aeda8533b704f9be24b556a43d98,
